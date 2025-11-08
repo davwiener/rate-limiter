@@ -1,0 +1,15 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Environment files
+.env
+
+# Docker artifacts
+*.log
+.pytest_cache/
+htmlcov/
